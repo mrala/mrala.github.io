@@ -9,7 +9,7 @@ categories: test
 
 Test post
 
-```python
+{% highlight python %}
 #!/usr/bin/env python
 
 """
@@ -87,4 +87,4 @@ def mc_move(board, player, trials):
     return get_best_move(board, scores)
      
 poc_ttt_gui.run_gui(3, provided.PLAYERX, mc_move, NTRIALS, False)
-```
+{% endhighlight %}
