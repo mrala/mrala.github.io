@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "helo world"
+title:  "hello world"
 date:   2015-08-02 02:44:00
 categories: test
 ---
